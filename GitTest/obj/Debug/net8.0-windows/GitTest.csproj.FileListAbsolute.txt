@@ -1,0 +1,15 @@
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\bin\Debug\net8.0-windows\GitTest.exe
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\bin\Debug\net8.0-windows\GitTest.deps.json
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\bin\Debug\net8.0-windows\GitTest.runtimeconfig.json
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\bin\Debug\net8.0-windows\GitTest.dll
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\bin\Debug\net8.0-windows\GitTest.pdb
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.AssemblyInfoInputs.cache
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.AssemblyInfo.cs
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.sourcelink.json
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.dll
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\refint\GitTest.dll
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.pdb
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\GitTest.genruntimeconfig.cache
+C:\Users\juliu\OneDrive\DESKTOP PC\Desktop\UU\UU Jaar 1\Imperatief programmeren\Ryder\GitTest\GitTest\obj\Debug\net8.0-windows\ref\GitTest.dll
